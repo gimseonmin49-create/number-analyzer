@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="number-analyzer/number-analyzer.vcxproj" Id="9a62b670-7a0a-4dcc-a415-58238fd9e572" />
+</Solution>
